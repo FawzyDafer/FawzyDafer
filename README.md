@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fawzy Mohammed Dafer</h1>
-<h3 align="center">A passionate Dot Net developer from Egypt</h3>
+<h3 align="center"> a Full Stack Web Developer who loves building and developing web applications and websites</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fawzydafer&label=Profile%20views&color=0e75b6&style=flat" alt="fawzydafer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fawzydafer" alt="fawzydafer" /></a> </p>
 
-- 🔭 I’m currently working on **MyPortfolio**
+- 🔭 I’m currently working on **MyStore Project**
 
-- 🌱 I’m currently learning **Dot Net Framework and Angular**
+- 🌱 I’m currently learning **Dot Net Core  and Angular**
 
 - 📫 How to reach me **al2alhan.2019@gmail.com**
 
