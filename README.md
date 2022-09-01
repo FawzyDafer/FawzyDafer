@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fawzy Mohammed Dafer</h1>
-<h3 align="center"> a Full Stack Web Developer who loves building and developing web applications and websites</h3>
+<h3 align="center">  A Full Stack Web Developer who loves building and developing web applications and websites. I recently developed the MyStore E-Commerce web application, I used Dot Net Core API, Dot Net Entity FrameworkeCore, Dot Net IdentitiyCore, and Microsoft SQL Server to store data all of the above for backend and Frontend I used Angular to make a responsive User Interface. my passion for Software Engineering helped me obtain a Bachelor of computers and information major in Software Engineering, and then Angular Development Cross Skilling Nanodegree Program from Udacity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fawzydafer&label=Profile%20views&color=0e75b6&style=flat" alt="fawzydafer" /> </p>
 
